@@ -1,0 +1,17 @@
+config.txt
+data/
+
+
+
+
+penulisan untuk mengecualikan file
+nama_file.txt
+file dengan nama "nama_file.txt" tidak akan terbawa
+
+penulisan untuk mengecualikan folder
+nama_folder/
+folder dengan nama folder "nama_folder" tidak akan terbawa
+
+penulisan untuk mengecualikan pola format file
+*.exe
+semua file dengan fotmat file ".exe" tidak akan terbawa
